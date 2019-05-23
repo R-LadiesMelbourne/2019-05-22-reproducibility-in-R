@@ -1,0 +1,14 @@
+---
+title: "README"
+author: "Lavinia Gordon"
+date: "23/05/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Baby one more time - Reproducibility in R and when to pull in the big guns!
+
+Find Lavinia's [slides here](https://mrslaviniag.github.io/xaringan_presentations/rladies_presentation_22_May_2019.html#1) 
